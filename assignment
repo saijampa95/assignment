@@ -1,0 +1,23 @@
+num1=10
+num2=4
+addition=num1+num2
+subtraction=num1-num2
+multiplication=num1*num2
+division=num1/num2
+print("sum of the number:",addition)
+print("subtraction of the number:",subtraction)
+print("multiplication of the number:",multiplication)
+print("division of the number:",division)
+
+C:\Users\New\PycharmProjects\PythonProject\.venv\Scripts\python.exe C:\Users\New\PycharmProjects\PythonProject\testing.py 
+sum of the number: 14
+subtraction of the number: 6
+multiplication of the number: 40
+division of the number: 2.5
+
+Process finished with exit code 0
+
+
+print('hello','saikarthik','welcome ,''to','pythonworld')
+
+hello saikarthik welcome ,to pythonworld
